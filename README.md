@@ -1,1 +1,3 @@
 # harinez.com
+
+harinez.comのサイトデータ
